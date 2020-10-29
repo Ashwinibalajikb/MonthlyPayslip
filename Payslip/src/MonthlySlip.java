@@ -6,6 +6,10 @@ public class MonthlySlip {
 		System.out.println("I got my bonus");
 		System.out.println("Hurrya.....!!!!!");
 		System.out.println("Save the money");
+		System.out.println("I got my bonus");
+		System.out.println("Hurrya.....!!!!!");
+		System.out.println("Save the money");
+		
 		
 
 	}
